@@ -64,11 +64,9 @@ open terminal in this directory and run the following command to start flask ser
 **Chatbot framework:** Rasa
 
 
-## Team
+## By
 
-- [Robin Singh](https://github.com/robinsingh051)
-- [Sanjana Pradhan](https://github.com/Sanjana27-11)
-- [Prithvi Vasanth](https://github.com/prithvivasanth)
+- [Amaan Mohammed Khalander](https://github.com/amaan9136)
 
 =======
 # heathcare-chatbot
