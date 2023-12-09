@@ -1,0 +1,114 @@
+[
+  {
+    "text": "yes",
+    "intent": "cold_confirm",
+    "intent_prediction": {
+      "name": "fracture_accepted",
+      "confidence": 0.9999771118164062
+    }
+  },
+  {
+    "text": "feeling good",
+    "intent": "med_helped",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9053829908370972
+    }
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9805460572242737
+    }
+  },
+  {
+    "text": "ya",
+    "intent": "cold_confirm",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.44131800532341003
+    }
+  },
+  {
+    "text": "medicine did not helped me",
+    "intent": "med_not_helped",
+    "intent_prediction": {
+      "name": "med_helped",
+      "confidence": 0.6507478356361389
+    }
+  },
+  {
+    "text": "i have a leg with 5 fingures",
+    "intent": "fracture_sym",
+    "intent_prediction": {
+      "name": "fever_sym",
+      "confidence": 0.9187921285629272
+    }
+  },
+  {
+    "text": "i have fever and my leg is paining",
+    "intent": "fever_sym",
+    "intent_prediction": {
+      "name": "fracture_sym",
+      "confidence": 0.987764298915863
+    }
+  },
+  {
+    "text": "factured",
+    "intent": "fracture_accepted",
+    "intent_prediction": {
+      "name": "fever_sym",
+      "confidence": 0.9362434148788452
+    }
+  },
+  {
+    "text": "have a nice day",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "fever_sym",
+      "confidence": 0.489210844039917
+    }
+  },
+  {
+    "text": "i am not feeling better",
+    "intent": "med_not_helped",
+    "intent_prediction": {
+      "name": "med_helped",
+      "confidence": 0.6840993762016296
+    }
+  },
+  {
+    "text": "I am feeling weak",
+    "intent": "fever_sym",
+    "intent_prediction": {
+      "name": "med_helped",
+      "confidence": 0.9439014792442322
+    }
+  },
+  {
+    "text": "yes",
+    "intent": "fracture_accepted",
+    "intent_prediction": {
+      "name": "cold_confirm",
+      "confidence": 0.9999139308929443
+    }
+  },
+  {
+    "text": "let's go",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.600020170211792
+    }
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "med_not_helped",
+      "confidence": 0.7870641350746155
+    }
+  }
+]
