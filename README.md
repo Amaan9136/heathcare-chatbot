@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Healthcare chatbot Using machine learning and natural language prcessing
 
 Healthcare is very important to lead a good life. However, it is very difficult to obtain a
@@ -71,4 +69,3 @@ open terminal in this directory and run the following command to start flask ser
 =======
 # heathcare-chatbot
 "AI healthcare chatbot: NLP-driven, offers medical advice, symptom analysis, medication reminders, and guides to healthcare resources."
->>>>>>> e175c221123e37bbad37011e5cf3d7202f3edfe4
