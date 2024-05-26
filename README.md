@@ -52,7 +52,6 @@ open terminal in this directory and run the following command to start flask ser
 ```
 
 
-
 ## Technologies used
 
 **Client:** HTML,CSS,Javascript
@@ -66,6 +65,5 @@ open terminal in this directory and run the following command to start flask ser
 
 - [Amaan Mohammed Khalander](https://github.com/amaan9136)
 
-=======
 # heathcare-chatbot
 "AI healthcare chatbot: NLP-driven, offers medical advice, symptom analysis, medication reminders, and guides to healthcare resources."
